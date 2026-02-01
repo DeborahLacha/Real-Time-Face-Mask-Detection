@@ -13,6 +13,7 @@ Developed lightweight MobileNetV2 face mask detection model for identifying a pe
 1. Download the required files into a directory if your choice.
 2. Open required codes in Jupyter Notebook.
 3. Install the dependencies as mentioned in code.
-4. Execute the code.
+4. Execute the code. Run python code/detect_mask_video.py --model "D:\Real-Time-Face-Mask-Detection\Code\mask_detector.h5" --face face_detector --alarm alarm.mp3
+
 5. Press 'q' to exit from real time video detection.
 6. Done
