@@ -1,0 +1,10 @@
+streamlit>=1.12
+streamlit-webrtc>=0.52.0
+opencv-python-headless==4.7.0.72  
+numpy
+pandas
+playsound
+simpleaudio
+tensorflow>=2.10  
+tflite-runtime  
+av

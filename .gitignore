@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & runtime files
+*.log
+*.csv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Models (optional – see note below)
+*.h5
+*.model
+*.tflite
+
+# Face detector binaries (optional)
+face_detector/*.caffemodel
